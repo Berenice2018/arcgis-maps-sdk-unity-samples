@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 260.45142, g: 321.5182, b: 425.9707, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1459,7 +1459,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1fe10a2d8890b014c8d776c7143c1d7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  APIKey: 
+  APIKey: AAPKcc4b97c7ac534ea1875194fcfec1ebe5hXq5-5uvhL5A4ukFefm-6QJRqjV65tEkse03hTnXCQwMAPqlNS739ientvjnQv_z
   PipelineTypeDropdown: {fileID: 158661649}
   SceneDropdown: {fileID: 307260416}
   ExitButton: {fileID: 425784244}
@@ -2092,6 +2092,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_SendPointerHoverToParent: 1
   m_HorizontalAxis: Horizontal
   m_VerticalAxis: Vertical
   m_SubmitButton: Submit
