@@ -5,33 +5,38 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/SampleViewer/SampleViewer.unity
     guid: 6ce02e91b78d9bf49b379e0b3df4c8e0
-  - enabled: 1
+  - enabled: 0
     path: Assets/SampleViewer/Samples/LineOfSight/LineOfSight.unity
     guid: 50288eb8a3c0ca3469af0d0b9e1ba6ea
-  - enabled: 1
+  - enabled: 0
     path: Assets/SampleViewer/Samples/FeatureLayer/FeatureLayer.unity
     guid: faaa2f7004a8bde4188f0332a235c038
-  - enabled: 1
+  - enabled: 0
     path: Assets/SampleViewer/Samples/Routing/Routing.unity
     guid: f1b121b2a5e1e424ca7c6d987dbdb38f
-  - enabled: 1
+  - enabled: 0
     path: Assets/SampleViewer/Samples/Measure/Measure.unity
     guid: d9acf8d898a38ac45a1b37ca38c45893
-  - enabled: 1
+  - enabled: 0
     path: Assets/SampleViewer/Samples/Geocoding/Geocoding.unity
     guid: 9d0fbdfdb383b4f4480c7fbb5d2e2c6c
-  - enabled: 1
+  - enabled: 0
     path: Assets/SampleViewer/Samples/VRSample/VR-Sample.unity
     guid: 4ba5370acb5bed847ae520099443b548
-  - enabled: 1
+  - enabled: 0
     path: Assets/SampleViewer/Samples/StreamLayer/StreamLayer.unity
     guid: 7ec1fecb54ff66e40853134285ca2997
-  - enabled: 1
+  - enabled: 0
     path: Assets/SampleViewer/Samples/ThirdPerson/ThirdPerson.unity
     guid: 89a7cad76f6a02d45b2f5e41f2d17953
+  - enabled: 1
+    path: Assets/Scenes/ComponentGlobalSample_AR.unity
+    guid: 1035541496f1b4ffab15391a8c10089f
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: df3ba7fedcb8b401fb762110005255ee, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 2d6af42929b3445a195680a6d716d5ff, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4b9b5078436391c4c8cd14ffd64ce8c6, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: fec67603907677c4ca42901b42839293, type: 2}
